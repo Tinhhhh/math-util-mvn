@@ -24,7 +24,7 @@ public class MathUtility {
             return 1;
         }
 
-        long result = 1;
+        long result = 10;
         for (int i = 2; i <= n; i++) {
             result *= i;
         }
